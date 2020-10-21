@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/Users/xtianramses/.local/share/virtualenvs/project1-sAyfl89n/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": [
+    "--disable=C0111",
+    "--load-plugins",
+    "pylint_django"
+  ]
+}
